@@ -1,4 +1,4 @@
-const K = 10;
+const K = 15;
 const T = 5;
 
 let original_img;
